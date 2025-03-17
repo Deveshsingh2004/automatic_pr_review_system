@@ -86,3 +86,15 @@ An AI-powered system that automates GitHub Pull Request (PR) reviews. Built with
 2. **Webhook Listener**: Automatically triggers on new PRs to process the changes.
 3. **AI Analysis**: Analyzes the changes in PRs using **Google Gemini AI**.
 4. **Automated Review Posting**: Posts AI-generated reviews as comments on PRs via the **GitHub API**.
+
+## Screenshot
+
+### Login
+![image](https://github.com/Deveshsingh2004/automatic_pr_review_system/blob/fba8eb90b9093d27294fe904c4ace55034f22bdb/Readme%20image/Login%20page.jpg)
+
+### Github OAuth 
+![image](https://github.com/Deveshsingh2004/automatic_pr_review_system/blob/fba8eb90b9093d27294fe904c4ace55034f22bdb/Readme%20image/Gitgub%20OAuth.jpg)
+
+
+### Repository select page
+![image](https://github.com/Deveshsingh2004/automatic_pr_review_system/blob/fba8eb90b9093d27294fe904c4ace55034f22bdb/Readme%20image/Repository%20select%20drop%20down%20.jpg)
